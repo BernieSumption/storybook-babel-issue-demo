@@ -1,0 +1,20 @@
+{
+  "name": "addon-knobs-bug-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "storybook": "start-storybook -p 6006"
+  },
+  "dependencies": {
+    "@babel/core": "^7.0.0-beta.49",
+    "@storybook/addon-knobs": "^3.4.7",
+    "@storybook/addons": "^3.4.7",
+    "@storybook/react": "^3.4.7",
+    "babel-core": "^7.0.0-0",
+    "babel-loader": "^7.0.0-beta",
+    "babel-runtime": "^6.26.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "webpack": "^4.8.3"
+  }
+}
