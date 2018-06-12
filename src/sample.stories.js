@@ -1,5 +1,7 @@
 "use strict";
 
+// This file is transpiled JSX, to simplify the babel config of this demo repo
+
 var _react = require("react");
 
 var _react2 = _interopRequireDefault(_react);
